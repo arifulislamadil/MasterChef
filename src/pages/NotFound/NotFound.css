@@ -7,7 +7,16 @@
     border: 20px solid rgb(226, 63, 63);
 }
 
+.btn-back-home{
+    border: none;
+    background-color: rgba(129, 231, 231, 0.767);
+    padding: 8px 25px;
+    transition: all 0.3s;
+}
 
+.btn-back-home:hover{
+    background: white;
+}
 
 .not-style h1{
     font-size: 70px;

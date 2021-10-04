@@ -1,5 +1,6 @@
 import React from 'react';
 import Footer from '../Footer/Footer';
+import { Link } from 'react-router-dom';
 import "./NotFound.css";
 
 const NotFound = () => {
@@ -15,6 +16,8 @@ const NotFound = () => {
                         Actually, there is nothing to see here...
 
                         Click on the links below to do something,<br /> Thanks!</p>
+
+                    <button className="btn-back-home"><Link className="text-decoration-none" to="/home">Back to Home </Link></button>
 
                 </div>
 
