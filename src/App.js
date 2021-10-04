@@ -30,8 +30,6 @@ function App() {
             <Contact></Contact>
           </Route>
 
-
-
           <Route exact path="/">
             <Home></Home>
           </Route>
@@ -39,15 +37,12 @@ function App() {
             <Home></Home>
           </Route>
 
-
-
           <Route path="*">
             <NotFound></NotFound>
           </Route>
 
         </Switch>
       </Router>
-
 
     </div>
   );

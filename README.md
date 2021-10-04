@@ -10,5 +10,5 @@ This project about educational website where students can buy and get informatio
 <li>React Router</li>
 </ul>
 
-In the project directory, you can run:
+In the project directory, you can run
 
