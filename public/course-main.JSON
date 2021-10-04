@@ -1,0 +1,32 @@
+{
+    "course_main": [
+        {
+            "course_id": 1001,
+            "course_name": "Italian food",
+            "img": "https://i.ibb.co/BPWR9Vj/21-COOKING-CHICKENn-ONION2-video-Large.jpg",
+            "duration": "4 months",
+            "fee": 400
+        },
+        {
+            "course_id": 1002,
+            "course_name": "Western food",
+            "img": "https://i.ibb.co/zrPxL7p/ar-eggs-benedict-video-Large.jpg",
+            "duration": "5 months",
+            "fee": 600
+        },
+        {
+            "course_id": 1003,
+            "course_name": "Chines food",
+            "img": "https://i.ibb.co/hR1rjCM/rice-noodles-video-Large-v2.jpg",
+            "duration": "6 months",
+            "fee": 450
+        },
+        {
+            "course_id": 1004,
+            "course_name": "Malay food",
+            "img": "https://i.ibb.co/6BzRXTj/ya-apple-crisp-video-Large.jpg",
+            "duration": "1 years",
+            "fee": 800
+        }
+    ]
+}

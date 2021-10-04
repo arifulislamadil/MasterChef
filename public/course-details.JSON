@@ -1,0 +1,14 @@
+{
+    "course_main": [
+        {
+            "course_id": 1001,
+            "course_name": "italian food",
+            "img": "https://i.ibb.co/ZMhVzmh/33ed39f5b547482c88542581e19c88ca-18.jpg",
+            "fee": 400,
+            "course-details": "This course is about cooking tachine",
+            "duration": "4 months",
+            "instructor_name": "Mr.Robart",
+            "course_start": "1st January"
+        }
+    ]
+}
