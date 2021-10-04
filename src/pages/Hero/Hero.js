@@ -35,13 +35,13 @@ const Hero = () => {
                 <Carousel.Item>
                     <img
                         className="d-block w-100 banner-style"
-                        src="https://i.ibb.co/Ld0fxTF/Chef.jpg"
+                        src="https://i.ibb.co/YWXMzc6/hospitality-istock-1030953288.jpg"
                         alt="Third slide"
                     />
 
                     <Carousel.Caption>
-                        <h3 className="text-dark text-uppercase">Team make you strong</h3>
-                        <p className="text-dark">Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                        <h3 className=" text-uppercase">Team make you strong</h3>
+                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
