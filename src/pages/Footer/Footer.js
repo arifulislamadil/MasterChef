@@ -34,13 +34,13 @@ const Footer = () => {
                         <div className="mt-5">
                             <h4>UseFul Links</h4>
                             <hr className="w-50" />
-                            <Link to="/">Home</Link>
+                            <Link to="/home">Home</Link>
                             <br />
-                            <Link to="/">About</Link>
+                            <Link to="/about">About</Link>
                             <br />
-                            <Link to="#">CookMaster</Link>
+                            <Link to="/cookmaster">CookMaster</Link>
                             <br />
-                            <Link to="/">Contact</Link>
+                            <Link to="/contact">Contact</Link>
                         </div>
                     </div>
 

@@ -6,8 +6,8 @@ const About = () => {
     return (
         <div>
             <div className="container mb-5">
-                <div className="mt-5">
-                    <img className="img-fluid about-img" src="https://i.ibb.co/YkQ3WnG/c7e9c702791d6f5c36a67e59fd193b6f-1050319.jpg" alt="" />
+                <div className="">
+                    <img className="img-fluid about-img" src="https://i.ibb.co/2kHV96d/Group-Of-Confident-Multi-Ethnic-Restaurant-Staff.jpg" alt="" />
 
                 </div>
                 <h1 className="mt-4 mb-4 text-secondary">About</h1>

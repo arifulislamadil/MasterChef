@@ -17,7 +17,7 @@ const NotFound = () => {
 
                         Click on the links below to do something,<br /> Thanks!</p>
 
-                    <button className="btn-back-home"><Link className="text-decoration-none" to="/home">Back to Home </Link></button>
+                    <button className="btn-back-home"><Link className="text-decoration-none text-light" to="/home">Back to Home </Link></button>
 
                 </div>
 

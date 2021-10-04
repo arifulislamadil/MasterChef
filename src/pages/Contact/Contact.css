@@ -1,13 +1,19 @@
+.form-full{
+    background: rgba(91, 240, 220, 0.164);
+}
+
 .bg-color{
-    background: rgba(164, 245, 248, 0.329);
+    padding: 50px 0;
 }
 
 .contact-form{
     width: 500px;
-    height: 600px;
     margin: auto;
     text-align: center;
     overflow-y: hidden;
+    background: rgba(0, 0, 0, 0.787);
+    padding: 40px;
+    border-radius: 20px;
 }
 
 .overfolw-contact{
@@ -15,8 +21,13 @@
 }
 
 .btn-contact{
-    background-color: rgb(125, 241, 241);
+    background-color: rgba(125, 241, 241, 0.534);
     border: none;
     padding: 10px 20px;
-    color: white;  
+    color: rgb(255, 255, 255);  
+    font-weight: bold;
+}
+
+.form-text h1{
+    color: rgb(255, 255, 255);;
 }
