@@ -29,7 +29,6 @@ function App() {
           <Route exact path="/contact">
             <Contact></Contact>
           </Route>
-
           <Route exact path="/">
             <Home></Home>
           </Route>
@@ -43,7 +42,6 @@ function App() {
 
         </Switch>
       </Router>
-
     </div>
   );
 }

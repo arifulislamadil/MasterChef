@@ -3,7 +3,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid rgba(68, 70, 70, 0.575);
+    border: 2px solid rgba(125, 241, 241, 0.541);
     cursor: pointer;
     color: rgba(20, 20, 20, 0.719);
     transition: all 0.3s;
@@ -12,7 +12,7 @@
 }
 
 .card-desi:hover{
-    background: paleturquoise;
+    background: rgba(175, 238, 238, 0.445);
     
 }
 .card-body p{
@@ -29,4 +29,16 @@
     width: 200px;
     height: 200px;
     border-radius: 50%;
+}
+
+
+.btn-course{
+    background-color: rgba(125, 241, 241, 0.719);
+    border: none;
+    padding: 10px 20px;
+    
+}
+
+.btn-course:hover{
+    color: black;
 }

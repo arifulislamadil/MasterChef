@@ -8,7 +8,7 @@ const SingleCourseDetails = (props) => {
             <div className="card-desi text-center">
                 <div className="h-100">
                     <div className="img-style">
-                        <img className="img-modify img-fluid" src={img} class="card-img-top" alt="..." />
+                        <img className="img-modify img-fluid" src={img} className="card-img-top" alt="..." />
 
                     </div>
 
@@ -16,9 +16,10 @@ const SingleCourseDetails = (props) => {
                         <h5 className="card-title">{course_name.slice(0, 15)}</h5>
                         <p>Course Info : {course_details.slice(0, 100)}</p>
                         <p>Instructor : {instructor_name}</p>
+                        <p>Course Start : {course_start}</p>
                         <p className="card-text">Duration: {duration}</p>
                         <p className="">Fee : {fee}</p>
-                        <p>Course Start : {course_start}</p>
+                        <button className="btn-course mt-2">Buy Now</button>
                     </div>
                 </div>
             </div>
