@@ -10,8 +10,8 @@ const CookMaster = () => {
             <div className='container'>
                 <h1 className="mt-4 mb-4 text-secondary">World Class Chef Master</h1>
                 <div className="row mt-3 mb-3 p-3 master-chef-card">
-                    <div className="col-md-4">
-                        <img className="img-fluid img-style" src="https://i.ibb.co/qMNfZJY/1.jpg" alt="" />
+                    <div className="col-md-4 img-style">
+                        <img className="img-fluid " src="https://i.ibb.co/qMNfZJY/1.jpg" alt="" />
                         <br />
                         <Link to="/">@goodappetite</Link>
                         <br />
@@ -24,8 +24,8 @@ const CookMaster = () => {
                     </div>
                 </div>
                 <div className="row mt-3 mb-3 p-3 master-chef-card">
-                    <div className="col-md-4">
-                        <img className="img-fluid img-style" src="https://i.ibb.co/X7RQWRB/10586023-male-chef.jpg" alt="" />
+                    <div className="col-md-4 img-style">
+                        <img className="img-fluid " src="https://i.ibb.co/X7RQWRB/10586023-male-chef.jpg" alt="" />
                         <br />
                         <Link to="/">@goodappetite</Link>
                         <br />
@@ -38,8 +38,8 @@ const CookMaster = () => {
                     </div>
                 </div>
                 <div className="row mt-3 mb-3 p-3 master-chef-card">
-                    <div className="col-md-4">
-                        <img className="img-fluid img-style" src="https://i.ibb.co/Dr1gNd2/be-a-great-chef.jpg" alt="" />
+                    <div className="col-md-4 img-style">
+                        <img className="img-fluid" src="https://i.ibb.co/Dr1gNd2/be-a-great-chef.jpg" alt="" />
                         <br />
                         <Link to="/">@goodappetite</Link>
                         <br />
@@ -52,8 +52,8 @@ const CookMaster = () => {
                     </div>
                 </div>
                 <div className="row mt-3 mb-3 p-3 master-chef-card">
-                    <div className="col-md-4">
-                        <img className="img-fluid img-style" src="https://i.ibb.co/gtpLQq3/female-chef-jpg-370x370-q85.jpg" alt="" />
+                    <div className="col-md-4 img-style">
+                        <img className="img-fluid" src="https://i.ibb.co/gtpLQq3/female-chef-jpg-370x370-q85.jpg" alt="" />
                         <br />
                         <Link to="/">@goodappetite</Link>
                         <br />

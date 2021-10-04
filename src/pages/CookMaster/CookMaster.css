@@ -1,4 +1,4 @@
-.img-style{
+.img-style img{
     width: 200px;
     border-radius: 50%;
 }
@@ -9,5 +9,5 @@
 }
 
 .master-chef-card:hover{
-    background: rgba(135, 251, 255, 0.404);
+    background: rgba(135, 251, 255, 0.212);
 }
