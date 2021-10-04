@@ -1,6 +1,15 @@
 .not-found-style{
-    height: 420px;
+    height: 600px;
     display: flex;
+    font-size: large;
     align-items: center;
     justify-content: center;
+    border: 20px solid rgb(226, 63, 63);
+}
+
+
+
+.not-style h1{
+    font-size: 70px;
+    font-weight: 900;
 }

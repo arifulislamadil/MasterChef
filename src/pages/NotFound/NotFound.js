@@ -4,11 +4,11 @@ import "./NotFound.css";
 
 const NotFound = () => {
     return (
-        <div className="bg-danger">
-            <div className="container bg-dark p-5 not-found-style">
-                <div>
+        <div className="not-found-back">
+            <div className=" bg-dark p-5 not-found-style">
+                <div className="not-style">
                     <h1 className="text-danger">ERROR 404 NOT FOUND</h1>
-                    <p className="text-white ps-5 pe-5">You may have mis-typed the URL.
+                    <p className="text-white ps-5 pe-5 mt-5">You may have mis-typed the URL.
 
                         Or the page has been removed.<br />
 

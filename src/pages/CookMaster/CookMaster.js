@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import Footer from '../Footer/Footer';
 import './CookMaster.css'
 
@@ -7,14 +8,14 @@ const CookMaster = () => {
 
         <div>
             <div className='container'>
-                <h1 className="mt-4 mb-4">World Class Chef Master</h1>
+                <h1 className="mt-4 mb-4 text-secondary">World Class Chef Master</h1>
                 <div className="row mt-3 mb-3 p-3 master-chef-card">
                     <div className="col-md-4">
                         <img className="img-fluid img-style" src="https://i.ibb.co/qMNfZJY/1.jpg" alt="" />
                         <br />
-                        <a href="#">@goodappetite</a>
+                        <Link to="/">@goodappetite</Link>
                         <br />
-                        <a href="#">Melissa’s Recipe Box</a>
+                        <Link to="/">Melissa’s Recipe Box</Link>
                     </div>
                     <div className="col-md-8 mt-3">
                         <h1>Melissa Clark</h1>
@@ -26,9 +27,9 @@ const CookMaster = () => {
                     <div className="col-md-4">
                         <img className="img-fluid img-style" src="https://i.ibb.co/X7RQWRB/10586023-male-chef.jpg" alt="" />
                         <br />
-                        <a href="#">@goodappetite</a>
+                        <Link to="/">@goodappetite</Link>
                         <br />
-                        <a href="#">Mr Robart Recipe Box</a>
+                        <Link to="/">Mr Robart Recipe Box</Link>
                     </div>
                     <div className="col-md-8 mt-3">
                         <h1>Mr Robart</h1>
@@ -40,9 +41,9 @@ const CookMaster = () => {
                     <div className="col-md-4">
                         <img className="img-fluid img-style" src="https://i.ibb.co/Dr1gNd2/be-a-great-chef.jpg" alt="" />
                         <br />
-                        <a href="#">@goodappetite</a>
+                        <Link to="/">@goodappetite</Link>
                         <br />
-                        <a href="#">Alex Recipe Box</a>
+                        <Link to="/">Alex Recipe Box</Link>
                     </div>
                     <div className="col-md-8 mt-3">
                         <h1>Master Alex</h1>
@@ -54,9 +55,9 @@ const CookMaster = () => {
                     <div className="col-md-4">
                         <img className="img-fluid img-style" src="https://i.ibb.co/gtpLQq3/female-chef-jpg-370x370-q85.jpg" alt="" />
                         <br />
-                        <a href="#">@goodappetite</a>
+                        <Link to="/">@goodappetite</Link>
                         <br />
-                        <a href="#">Ms Sara Recipe Box</a>
+                        <Link to="/">Ms Sara Recipe Box</Link>
                     </div>
                     <div className="col-md-8 mt-3">
                         <h1>Sara Clark</h1>

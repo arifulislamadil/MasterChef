@@ -5,4 +5,9 @@
 
 .master-chef-card{
     background: rgba(12, 12, 12, 0.034);
+    
+}
+
+.master-chef-card:hover{
+    background: rgba(135, 251, 255, 0.404);
 }

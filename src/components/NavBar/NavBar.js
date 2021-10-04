@@ -8,7 +8,7 @@ const NavBar = () => {
         <div>
             <Navbar bg="bg-style" className="bg-style" expand="lg">
                 <Container>
-                    <Navbar.Brand ><Link to="/home"></Link>MasterChef</Navbar.Brand>
+                    <Navbar.Brand ><Link to="/home"></Link><h3 className="text-secondary">MasterChef</h3></Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ms-auto">

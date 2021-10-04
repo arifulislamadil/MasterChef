@@ -9,7 +9,7 @@ const Contact = () => {
                 <div className="bg-color">
                     <div className="contact-form form-body">
                         <div>
-                            <h1 className="p-2">Contact Us</h1>
+                            <h1 className="p-2 text-secondary">Contact Us</h1>
                             <br />
                             <input className=" form-control" type="text" placeholder="Your Name" /><br />
                             <input className="mt-1 form-control" type="text" placeholder="Enter Your Email Address" /><br />

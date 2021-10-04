@@ -15,7 +15,7 @@ const CourseDetails = () => {
     return (
         <div >
             <div className="container mt-5 mb-5">
-                <h1 className="mb-4 mb-4">Our Courses</h1>
+                <h1 className="mb-4 mb-4 text-secondary">Our Courses</h1>
                 <div className="row row-cols-1 row-cols-md-3 g-4">
                     {
                         courseDetails.map((detail) => <SingleCourseDetails key={detail.course_id} detail={detail}></SingleCourseDetails>)

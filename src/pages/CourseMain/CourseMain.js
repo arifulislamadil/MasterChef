@@ -15,7 +15,7 @@ const CourseMain = () => {
     return (
         <div className="container mb-5">
             <div className="text-center">
-                <h1 className="mt-4 mb-4">Main Courses</h1>
+                <h1 className="mt-4 mb-4 text-secondary">Main Courses</h1>
             </div>
 
 
