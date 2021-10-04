@@ -19,7 +19,7 @@ const SingleCourseDetails = (props) => {
                         <p>Course Start : {course_start}</p>
                         <p className="card-text">Duration: {duration}</p>
                         <p className="">Fee : $ {fee}</p>
-                        <button className="btn-course mt-2">Buy Now</button>
+                        <button className="btn-course mt-2"> Enroll Now</button>
                     </div>
                 </div>
             </div>

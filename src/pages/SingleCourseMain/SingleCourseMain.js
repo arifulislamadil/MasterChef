@@ -13,7 +13,7 @@ const SingleCourseMain = (props) => {
                         <h5 className="card-title">Course Name : {course_name}</h5>
                         <p className="card-text">Duration: {duration}</p>
                         <p>Fee : $ {fee}</p>
-                        <button className="btn-style">Buy Now</button>
+                        <button className="btn-style">Enroll Now</button>
                     </div>
                 </div>
             </div>
