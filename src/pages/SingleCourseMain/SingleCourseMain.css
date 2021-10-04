@@ -1,0 +1,20 @@
+.card-style{
+    /* border: 2px solid blue; */
+    padding: 10px;
+}
+
+.btn-style{
+    background-color: paleturquoise;
+    border: none;
+    padding: 10px 20px;
+
+}
+
+.main-sigle-style{
+   transition: all 0.3s ease;
+}
+
+.main-sigle-style:hover{
+    cursor: pointer;
+    background: rgba(63, 63, 63, 0.075);
+}

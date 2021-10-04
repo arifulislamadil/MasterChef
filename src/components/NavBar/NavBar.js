@@ -1,27 +1,81 @@
 import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import "./NavBar.css";
 
 const NavBar = () => {
     return (
         <div>
-            <Navbar bg="light" expand="lg">
+            <Navbar bg="bg-style" className="bg-style" expand="lg">
                 <Container>
                     <Navbar.Brand ><Link to="/home"></Link>MasterChef</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="ms-auto">
-                            <Link to="/home">Home</Link>
-                            <Link to="/about">About</Link>
-                            <Link to="/courses">Courses</Link>
-                            <Link to="/cookmaster">CookMaster</Link>
-                            <Link to="/contact">Contact</Link>
+                            <NavLink className="me-4 text-decoration-none"
+                                to="/home"
+                                activeStyle={{
+                                    fontWeight: "bold",
+                                    color: "white",
+                                    marginRight: "10px"
+
+                                }}
+                            >
+                                Home
+                            </NavLink>
+
+
+                            <NavLink className="me-4 text-decoration-none"
+                                to="/about"
+                                activeStyle={{
+                                    fontWeight: "bold",
+                                    color: "white",
+                                    marginRight: "10px"
+
+                                }}
+                            >
+                                About
+                            </NavLink>
+
+
+                            <NavLink className="me-4 text-decoration-none"
+                                to="/courses"
+                                activeStyle={{
+                                    fontWeight: "bold",
+                                    color: "white",
+                                    marginRight: "10px"
+
+                                }}
+                            >
+                                Courses
+                            </NavLink>
+                            <NavLink className="me-4 text-decoration-none"
+                                to="/cookmaster"
+                                activeStyle={{
+                                    fontWeight: "bold",
+                                    color: "white",
+                                    marginRight: "10px"
+
+                                }}
+                            >
+                                Cookmaster
+                            </NavLink>
+                            <NavLink className="me-4 text-decoration-none"
+                                to="/contact"
+                                activeStyle={{
+                                    fontWeight: "bold",
+                                    color: "white",
+                                    marginRight: "10px"
+
+                                }}
+                            >
+                                Contact
+                            </NavLink>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
             </Navbar>
-        </div>
+        </div >
     );
 };
 

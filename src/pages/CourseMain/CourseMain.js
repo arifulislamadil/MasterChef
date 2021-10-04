@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import SingleCourseMain from '../SingleCourseMain/SingleCourseMain';
+import "./CourseMain.css"
 
 
 const CourseMain = () => {
@@ -12,26 +13,19 @@ const CourseMain = () => {
     }, [])
 
     return (
-        <div className="container">
-            <h1>Hello I'm From Course Main</h1>
+        <div className="container mb-5">
+            <div className="text-center">
+                <h1 className="mt-4 mb-4">Main Courses</h1>
+            </div>
 
-            <div className="row">
+
+            <div className="row row-cols-1 row-cols-md-3 g-4">
 
                 {
                     coursemain.map((course) => <SingleCourseMain key={course.course_id} course={course}></SingleCourseMain>)
                 }
 
             </div>
-
-
-
-
-
-
-
-
-
-
         </div>
     );
 };

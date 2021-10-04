@@ -1,13 +1,24 @@
 import React from 'react';
+import "./About.css"
 import Footer from '../Footer/Footer';
 
 const About = () => {
     return (
-        <div className="container">
-            <h1>About</h1>
-            <p>Our Chefs offer you perfect cooking, best served dishes with fresh ingredients and old recipes. We have only carefully sourced and seasonal ingredients in our disposal to make rustic dishes. We provide you with daily self-made bread, sourdough pizza, roasted fish-meat-vegetables and many more.</p>
+        <div>
+            <div className="container mb-5">
+                <div className="mt-5">
+                    <img className="img-fluid about-img" src="https://i.ibb.co/YkQ3WnG/c7e9c702791d6f5c36a67e59fd193b6f-1050319.jpg" alt="" />
+
+                </div>
+
+                <h1 className="mt-4 mb-4">About</h1>
+                <p>Our Chefs offer you perfect cooking, best served dishes with fresh ingredients and old recipes. We have only carefully sourced and seasonal ingredients in our disposal to make rustic dishes. We provide you with daily self-made bread, sourdough pizza, roasted fish-meat-vegetables and many more.</p>
+
+            </div>
             <Footer></Footer>
+
         </div>
+
     );
 };
 

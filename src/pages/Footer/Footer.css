@@ -1,0 +1,29 @@
+.bg-footer-style {
+    background: paleturquoise;
+    color: #2e2e2ebe
+}
+
+.link-style a{
+   text-decoration: none;
+   color: #2e2e2ebe;
+   margin: 4px 0;
+   display: inline-block;
+}
+
+.link-style a:hover{
+    color: white;
+}
+
+.footer-sub input{
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+    padding: 5px 10px;
+}
+
+.footer-btn{
+    border: none;
+    width: 100%;
+    border-radius: 5px;
+    padding: 5px;
+}

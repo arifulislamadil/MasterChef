@@ -1,0 +1,32 @@
+.card-desi{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid rgba(68, 70, 70, 0.575);
+    cursor: pointer;
+    color: rgba(20, 20, 20, 0.719);
+    transition: all 0.3s;
+    padding: 10px 0;
+  
+}
+
+.card-desi:hover{
+    background: paleturquoise;
+    
+}
+.card-body p{
+    margin: 2px 0;
+}
+
+.img-style {
+    width: 200px ;
+    height: 200px;
+    margin: auto;
+}
+
+.img-style img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

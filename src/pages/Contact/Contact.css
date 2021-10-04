@@ -1,0 +1,17 @@
+.bg-color{
+    background: rgba(140, 197, 235, 0.897);
+}
+
+.contact-form{
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    text-align: center;
+
+
+}
+
+.contact-form button{
+    color: white;
+    background-color: rgba(7, 7, 7, 0.623);
+}

@@ -2,12 +2,122 @@
     "course_main": [
         {
             "course_id": 1001,
-            "course_name": "italian food",
-            "img": "https://i.ibb.co/ZMhVzmh/33ed39f5b547482c88542581e19c88ca-18.jpg",
+            "course_name": "Culinary Arts ",
+            "img": "https://i.ibb.co/hCzdm95/5aa7e95df375f640008b4572.jpg",
             "fee": 400,
-            "course-details": "This course is about cooking tachine",
+            "course_details": "Introductory courses will teach basic cooking skills and techniques. Preparation of stocks, vegetables and meats may be introduced, along with the fundamental concepts of table service and kitchen sanitation. ",
             "duration": "4 months",
             "instructor_name": "Mr.Robart",
+            "course_start": "1st January"
+        },
+        {
+            "course_id": 1002,
+            "course_name": "Baking and Pastry",
+            "img": "https://i.ibb.co/qgZ6D3z/d27c960bad5c30e809c9a9536cbecfa4.jpg",
+            "fee": 400,
+            "course_details": "Introductory courses will teach basic cooking skills and techniques. Preparation of stocks, vegetables and meats may be introduced, along with the fundamental concepts of table service and kitchen sanitation. ",
+            "duration": "4 months",
+            "instructor_name": "Ms Lee",
+            "course_start": "1st January"
+        },
+        {
+            "course_id": 1003,
+            "course_name": "Culinary Arts",
+            "img": "https://i.ibb.co/tcGfYB3/download.jpg",
+            "fee": 400,
+            "course_details": "Introductory courses will teach basic cooking skills and techniques. Preparation of stocks, vegetables and meats may be introduced, along with the fundamental concepts of table service and kitchen sanitation. ",
+            "duration": "4 months",
+            "instructor_name": "Mr.Robart",
+            "course_start": "1st January"
+        },
+        {
+            "course_id": 1004,
+            "course_name": "Baking and Pastry ",
+            "img": "https://i.ibb.co/xgP5RsW/Full-Size-Render-4.jpg",
+            "fee": 400,
+            "course_details": "Introductory courses will teach basic cooking skills and techniques. Preparation of stocks, vegetables and meats may be introduced, along with the fundamental concepts of table service and kitchen sanitation. ",
+            "duration": "4 months",
+            "instructor_name": "Mr.Alex",
+            "course_start": "1st January"
+        },
+        {
+            "course_id": 1005,
+            "course_name": "Baking and Pastry ",
+            "img": "https://i.ibb.co/P9kDzS7/gettyimages-1036880806.jpg",
+            "fee": 400,
+            "course_details": "Introductory courses will teach basic cooking skills and techniques. Preparation of stocks, vegetables and meats may be introduced, along with the fundamental concepts of table service and kitchen sanitation. ",
+            "duration": "4 months",
+            "instructor_name": "Mr.Trodo",
+            "course_start": "1st January"
+        },
+        {
+            "course_id": 1006,
+            "course_name": "Culinary Arts",
+            "img": "https://i.ibb.co/QvkHPSx/green-salas-with-turnips-strawberries-and-pepitas-1588467359.jpg",
+            "fee": 400,
+            "course_details": "Introductory courses will teach basic cooking skills and techniques. Preparation of stocks, vegetables and meats may be introduced, along with the fundamental concepts of table service and kitchen sanitation. ",
+            "duration": "4 months",
+            "instructor_name": "Mr.Donal",
+            "course_start": "1st January"
+        },
+        {
+            "course_id": 1007,
+            "course_name": "Mashroom Course",
+            "img": "https://i.ibb.co/zHscYvF/Healthy-breakfast-Bowl-of-yogurt-with-granola-and-berries.jpg",
+            "fee": 400,
+            "course_details": "Introductory courses will teach basic cooking skills and techniques. Preparation of stocks, vegetables and meats may be introduced, along with the fundamental concepts of table service and kitchen sanitation. ",
+            "duration": "4 months",
+            "instructor_name": "Mr.William",
+            "course_start": "1st January"
+        },
+        {
+            "course_id": 1008,
+            "course_name": "Culinary Arts",
+            "img": "https://i.ibb.co/7VPd6M8/Bowl-of-healthy-fresh-fruit-salad-on-wooden-background-Top-view.jpg",
+            "fee": 400,
+            "course_details": "Introductory courses will teach basic cooking skills and techniques. Preparation of stocks, vegetables and meats may be introduced, along with the fundamental concepts of table service and kitchen sanitation. ",
+            "duration": "4 months",
+            "instructor_name": "Mrs Sara",
+            "course_start": "1st January"
+        },
+        {
+            "course_id": 1009,
+            "course_name": "Culinary Arts ",
+            "img": "https://i.ibb.co/m6D2xyZ/pancakes-1.jpg",
+            "fee": 400,
+            "course_details": "Introductory courses will teach basic cooking skills and techniques. Preparation of stocks, vegetables and meats may be introduced, along with the fundamental concepts of table service and kitchen sanitation. ",
+            "duration": "4 months",
+            "instructor_name": "Mr.Robart",
+            "course_start": "1st January"
+        },
+        {
+            "course_id": 1010,
+            "course_name": "Culinary Arts",
+            "img": "https://i.ibb.co/C62qd10/photo-1512621776951-a57141f2eefd.jpg",
+            "fee": 400,
+            "course_details": "Introductory courses will teach basic cooking skills and techniques. Preparation of stocks, vegetables and meats may be introduced, along with the fundamental concepts of table service and kitchen sanitation. ",
+            "duration": "4 months",
+            "instructor_name": "Mrs Mari",
+            "course_start": "1st January"
+        },
+        {
+            "course_id": 1011,
+            "course_name": "Culinary Arts ",
+            "img": "https://i.ibb.co/K9kcGP7/photo-1568625365131-079e026a927d.jpg",
+            "fee": 400,
+            "course_details": "Introductory courses will teach basic cooking skills and techniques. Preparation of stocks, vegetables and meats may be introduced, along with the fundamental concepts of table service and kitchen sanitation. ",
+            "duration": "4 months",
+            "instructor_name": "Mrs Jon",
+            "course_start": "1st January"
+        },
+        {
+            "course_id": 1012,
+            "course_name": "pasta Course",
+            "img": "https://i.ibb.co/wzCD096/Seattle-food-photographer-00.jpg",
+            "fee": 400,
+            "course_details": "Introductory courses will teach basic cooking skills and techniques. Preparation of stocks, vegetables and meats may be introduced, along with the fundamental concepts of table service and kitchen sanitation. ",
+            "duration": "4 months",
+            "instructor_name": "Mrs Trodu",
             "course_start": "1st January"
         }
     ]
