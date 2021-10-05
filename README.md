@@ -19,4 +19,4 @@ This project about educational website where students can buy and get informatio
 <li>React Router</li>
 </ul>
 
-[Web Link](https://admiring-northcutt-5f1c62.netlify.app/)
+[Live Website Link](https://admiring-northcutt-5f1c62.netlify.app/)
