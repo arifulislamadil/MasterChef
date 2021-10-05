@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import "./SingleCourseMain.css"
 
 const SingleCourseMain = (props) => {
@@ -13,7 +14,7 @@ const SingleCourseMain = (props) => {
                         <h5 className="card-title">Course Name : {course_name}</h5>
                         <p className="card-text">Duration: {duration}</p>
                         <p>Fee : $ {fee}</p>
-                        <button className="btn-style">Enroll Now</button>
+                        <button className="btn-style"><Link to="/courses" className="text-decoration-none">More Courses</Link></button>
                     </div>
                 </div>
             </div>
