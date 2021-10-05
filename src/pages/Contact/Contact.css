@@ -11,7 +11,7 @@
     margin: auto;
     text-align: center;
     overflow-y: hidden;
-    background: rgba(0, 0, 0, 0.787);
+    background: rgb(149 221 243 / 75%); 
     padding: 40px;
     border-radius: 20px;
 }
@@ -21,13 +21,14 @@
 }
 
 .btn-contact{
-    background-color: rgba(125, 241, 241, 0.534);
+    background-color: rgba(255, 255, 255, 0.534);
     border: none;
     padding: 10px 20px;
-    color: rgb(255, 255, 255);  
+    color: rgb(0, 0, 0);  
     font-weight: bold;
+    letter-spacing: 3px;
 }
 
 .form-text h1{
-    color: rgb(255, 255, 255);;
+    color: rgb(2, 2, 2);;
 }
