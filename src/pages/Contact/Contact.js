@@ -10,7 +10,7 @@ const Contact = () => {
                     <div className="col-md-3"></div>
                     <div className="col md-6 contact-form form-body">
                         <div className="form-text">
-                            <h1>Contact Us</h1>
+                            <h1> <span className="mt-1 mb-0 border border-secondary border-top-0 border-start-0 border-end-0">Contact Us</span></h1>
                             <br />
                             <input className=" form-control" type="text" placeholder="Your Name" /><br />
                             <input className="mt-1 form-control" type="text" placeholder="Your Email Address" /><br />
@@ -25,5 +25,4 @@ const Contact = () => {
         </div>
     );
 };
-
 export default Contact;

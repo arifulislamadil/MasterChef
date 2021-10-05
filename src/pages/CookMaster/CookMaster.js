@@ -8,7 +8,7 @@ const CookMaster = () => {
 
         <div>
             <div className='container'>
-                <h1 className="mt-4 mb-4 text-secondary">World Class Chef Master</h1>
+                <h1 className="mt-4 mb-4 text-secondary"> <span className="mt-1 mb-0 border border-secondary border-top-0 border-start-0 border-end-0" >World Class Chef Master</span></h1>
                 <div className="row mt-3 mb-3 p-3 master-chef-card">
                     <div className="col-md-4 img-style">
                         <img className="img-fluid " src="https://i.ibb.co/qMNfZJY/1.jpg" alt="" />
