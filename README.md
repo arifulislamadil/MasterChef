@@ -2,6 +2,15 @@
 
 This project about educational website where students can buy and get information about course with [Live Link](https://admiring-northcutt-5f1c62.netlify.app/).
 
+
+
+## Specialty
+
+- [ ] Enroll Any time
+- [ ] Reasonable Course Fee
+- [ ] Tech by Worl Class Chef
+
+
 ## Used Tools
 
 <ul>
@@ -10,5 +19,4 @@ This project about educational website where students can buy and get informatio
 <li>React Router</li>
 </ul>
 
-In the project directory, you can run
-
+[Web Link](https://admiring-northcutt-5f1c62.netlify.app/)
