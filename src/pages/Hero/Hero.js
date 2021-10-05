@@ -10,7 +10,9 @@ const Hero = () => {
                     <img
                         className="d-block w-100 banner-style"
 
-                        src="https://i.ibb.co/VjPMVyK/Hotel-4f710360-fill-1366x700-format-jpeg-jpegquality-80.jpg"
+
+
+                        src=" https://i.ibb.co/VjPMVyK/Hotel-4f710360-fill-1366x700-format-jpeg-jpegquality-80.jpg"
                         alt="First slide"
                     />
                     <Carousel.Caption>

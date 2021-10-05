@@ -6,8 +6,9 @@ const Contact = () => {
     return (
         <div className="form-full">
             <div className="container overfolw-contact">
-                <div className="bg-color">
-                    <div className="contact-form form-body">
+                <div className="row bg-color">
+                    <div className="col-md-3"></div>
+                    <div className="col md-6 contact-form form-body">
                         <div className="form-text">
                             <h1>Contact Us</h1>
                             <br />
@@ -17,6 +18,7 @@ const Contact = () => {
                             <button className='btn-contact mt-2 form-control'>Submit</button>
                         </div>
                     </div>
+                    <div className="col-md-3"></div>
                 </div>
             </div>
             <Footer></Footer>
