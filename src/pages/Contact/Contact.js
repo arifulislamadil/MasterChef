@@ -14,8 +14,8 @@ const Contact = () => {
                             <br />
                             <input className=" form-control" type="text" placeholder="Your Name" /><br />
                             <input className="mt-1 form-control" type="text" placeholder="Your Email Address" /><br />
-                            <textarea className="mt-1 mb-0 form-control" name="" id="" cols="30" rows="10"></textarea>
-                            <button className='btn-contact mt-2 form-control'>Submit</button>
+                            <textarea className="mt-1 mb-0 form-control" name="" id="" cols="30" rows="10" placeholder="Type Your Message Here"></textarea>
+                            <button className='btn-contact mt-2 form-control' >Submit</button>
                         </div>
                     </div>
                     <div className="col-md-3"></div>
