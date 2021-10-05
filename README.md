@@ -8,7 +8,7 @@ This project about educational website where students can buy and get informatio
 
 - [ ] Enroll Any time
 - [ ] Reasonable Course Fee
-- [ ] Teach by Worl Class Chef
+- [ ] Teach by World Class Chef
 
 
 ## Used Tools
