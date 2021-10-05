@@ -59,8 +59,9 @@ const Footer = () => {
                 </div>
 
             </div>
-
-
+            <div className="mt-1 mb-0 footer border border-secondary border-bottom-0 border-start-0 border-end-0">
+                <p className=" mb-0 text-center">© 2021 MasterChef, All Rights Reserved. Design By Ariful Islam Adil</p>
+            </div>
         </div>
     );
 };
