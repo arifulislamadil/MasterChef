@@ -8,6 +8,7 @@ import NavBar from './components/NavBar/NavBar';
 import CourseDetails from './pages/CourseDetails/CourseDetails';
 import Contact from './pages/Contact/Contact';
 import CookMaster from './pages/CookMaster/CookMaster';
+import Footer from './pages/Footer/Footer';
 
 
 
@@ -35,12 +36,11 @@ function App() {
           <Route exact path="/home">
             <Home></Home>
           </Route>
-
           <Route path="*">
             <NotFound></NotFound>
           </Route>
-
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );

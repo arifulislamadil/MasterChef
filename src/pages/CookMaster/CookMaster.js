@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Footer from '../Footer/Footer';
 import './CookMaster.css'
 
 const CookMaster = () => {
@@ -67,10 +66,6 @@ const CookMaster = () => {
                 </div>
 
             </div>
-
-
-
-            <Footer></Footer>
         </div>
 
     );

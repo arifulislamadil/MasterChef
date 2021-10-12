@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import Footer from '../Footer/Footer';
 import SingleCourseDetails from '../SigleCourseDetails/SingleCourseDetails';
 
 const CourseDetails = () => {
@@ -22,7 +21,6 @@ const CourseDetails = () => {
                     }
                 </div>
             </div>
-            <Footer></Footer>
         </div>
 
     );
