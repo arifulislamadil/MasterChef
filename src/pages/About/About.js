@@ -2,11 +2,12 @@ import React from 'react';
 import "./About.css"
 
 const About = () => {
+    const img_url = "https://i.ibb.co/2kHV96d/Group-Of-Confident-Multi-Ethnic-Restaurant-Staff.jpg";
     return (
         <div>
             <div className="container mb-5">
                 <div className="">
-                    <img className="img-fluid about-img" src="https://i.ibb.co/2kHV96d/Group-Of-Confident-Multi-Ethnic-Restaurant-Staff.jpg" alt="" />
+                    <img className="img-fluid about-img" src={img_url} alt="" />
 
                 </div>
                 <h1 className="mt-4 mb-4 text-secondary"> <span className="mt-1 mb-0 border border-secondary border-top-0 border-start-0 border-end-0">About</span></h1>
